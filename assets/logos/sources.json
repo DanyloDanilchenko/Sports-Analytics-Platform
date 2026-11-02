@@ -1,0 +1,563 @@
+{
+  "version": 1,
+  "logos": [
+    {
+      "teamId": "football-ars",
+      "sport": "football",
+      "path": "/assets/logos/football-ars.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t3.png",
+      "attribution": "Arsenal logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "f061448ba45e6aab892dad1b6e80140857dd896a6726d4e7446d784cd43f1ab2",
+      "retrievedAt": "2026-11-02T15:31:04.805Z"
+    },
+    {
+      "teamId": "football-avl",
+      "sport": "football",
+      "path": "/assets/logos/football-avl.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t7.png",
+      "attribution": "Aston Villa logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "e6ae8a1f1581453d4be1b40bf7369eb2f428df00d86b96979f25b4a044139ae8",
+      "retrievedAt": "2026-11-02T15:31:04.838Z"
+    },
+    {
+      "teamId": "football-bha",
+      "sport": "football",
+      "path": "/assets/logos/football-bha.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t36.png",
+      "attribution": "Brighton & Hove Albion logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "85cdcfeb2c2dd35cf1161dd076f227f7d7e4d2932be15212c5aaca658aecd025",
+      "retrievedAt": "2026-11-02T15:31:04.949Z"
+    },
+    {
+      "teamId": "football-bou",
+      "sport": "football",
+      "path": "/assets/logos/football-bou.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t91.png",
+      "attribution": "Bournemouth logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "77b986356450628760890b89dd78b2612bda49966cc61a624f09e390992c9c0d",
+      "retrievedAt": "2026-11-02T15:31:04.962Z"
+    },
+    {
+      "teamId": "football-bre",
+      "sport": "football",
+      "path": "/assets/logos/football-bre.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t94.png",
+      "attribution": "Brentford logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "1cdec4f2de9abb7dd384d175f3194730b1144221650966a4d4c0d29330b62653",
+      "retrievedAt": "2026-11-02T15:31:04.981Z"
+    },
+    {
+      "teamId": "football-bur",
+      "sport": "football",
+      "path": "/assets/logos/football-bur.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t90.png",
+      "attribution": "Burnley logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "f110e3ea45d3a9d69dcec40e7a371b21a88f4dfc5155f669c6c8f4ccdd205e82",
+      "retrievedAt": "2026-11-02T15:31:04.996Z"
+    },
+    {
+      "teamId": "football-che",
+      "sport": "football",
+      "path": "/assets/logos/football-che.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t8.png",
+      "attribution": "Chelsea logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "f70bce7abb0cd23af2bd79f1f7d296c2a6f0fbcc25427400a933a0bcaff04641",
+      "retrievedAt": "2026-11-02T15:31:04.840Z"
+    },
+    {
+      "teamId": "football-cry",
+      "sport": "football",
+      "path": "/assets/logos/football-cry.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t31.png",
+      "attribution": "Crystal Palace logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "33d1fdfe1f70956e879d4dc9a8863aef229893ece808c3a9e11dc3b0a9ab2564",
+      "retrievedAt": "2026-11-02T15:31:04.873Z"
+    },
+    {
+      "teamId": "football-eve",
+      "sport": "football",
+      "path": "/assets/logos/football-eve.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t11.png",
+      "attribution": "Everton logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "21177fa2b845beaf4b358ea70d9c46d07213b5e010ab272069748ebf7d4c3ca4",
+      "retrievedAt": "2026-11-02T15:31:04.966Z"
+    },
+    {
+      "teamId": "football-ful",
+      "sport": "football",
+      "path": "/assets/logos/football-ful.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t54.png",
+      "attribution": "Fulham logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "2a6e0a6eb2991fc7fd5938e3bfccb8e347fd3d777254ea3d31594c19702fd107",
+      "retrievedAt": "2026-11-02T15:31:04.949Z"
+    },
+    {
+      "teamId": "football-liv",
+      "sport": "football",
+      "path": "/assets/logos/football-liv.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t14.png",
+      "attribution": "Liverpool logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "0685357c160df9afd82d654c7907cfb46ef2e345b9c168bf51b51437680edf94",
+      "retrievedAt": "2026-11-02T15:31:04.806Z"
+    },
+    {
+      "teamId": "football-lut",
+      "sport": "football",
+      "path": "/assets/logos/football-lut.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t102.png",
+      "attribution": "Luton Town logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "7f633bcf7fe900cfc1400401421b6a5d8ae682db278ab501e48dd81509d0e0c3",
+      "retrievedAt": "2026-11-02T15:31:04.984Z"
+    },
+    {
+      "teamId": "football-mci",
+      "sport": "football",
+      "path": "/assets/logos/football-mci.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t43.png",
+      "attribution": "Manchester City logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "f3567b92ed4ab4002ff094414040e49c6b3c826c43e3496f4dabdf802ef52ccb",
+      "retrievedAt": "2026-11-02T15:31:04.807Z"
+    },
+    {
+      "teamId": "football-mun",
+      "sport": "football",
+      "path": "/assets/logos/football-mun.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t1.png",
+      "attribution": "Manchester United logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "53546406c1234ef955aa713d2b0ebc9afded9100a9a55a1754ec4ab2cf21be3c",
+      "retrievedAt": "2026-11-02T15:31:04.933Z"
+    },
+    {
+      "teamId": "football-new",
+      "sport": "football",
+      "path": "/assets/logos/football-new.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t4.png",
+      "attribution": "Newcastle United logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "83e9c3d4c700c05ccd74b836144226e350dff6381109ebd52d0d611eac56a4d4",
+      "retrievedAt": "2026-11-02T15:31:04.855Z"
+    },
+    {
+      "teamId": "football-nfo",
+      "sport": "football",
+      "path": "/assets/logos/football-nfo.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t17.png",
+      "attribution": "Nottingham Forest logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "4de5d664c10dc944812892293278e3ca7f0e92928ffd4b6638dae28fa1673553",
+      "retrievedAt": "2026-11-02T15:31:04.984Z"
+    },
+    {
+      "teamId": "football-shu",
+      "sport": "football",
+      "path": "/assets/logos/football-shu.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t49.png",
+      "attribution": "Sheffield United logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "9ef2766cdcce6e1325348ae6c46bdddda6387c60dc7a29625b44530d36752bcc",
+      "retrievedAt": "2026-11-02T15:31:05.078Z"
+    },
+    {
+      "teamId": "football-tot",
+      "sport": "football",
+      "path": "/assets/logos/football-tot.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t6.png",
+      "attribution": "Tottenham Hotspur logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "434bcd2bf93c80763a625ace716fe6cd68f9a83ba9b6c9352324475f561b6a70",
+      "retrievedAt": "2026-11-02T15:31:04.838Z"
+    },
+    {
+      "teamId": "football-whu",
+      "sport": "football",
+      "path": "/assets/logos/football-whu.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t21.png",
+      "attribution": "West Ham United logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "9dabe0b45d980db1eb7e977565b979fb98aa0da5c450b37171e4ecf29023db85",
+      "retrievedAt": "2026-11-02T15:31:04.858Z"
+    },
+    {
+      "teamId": "football-wol",
+      "sport": "football",
+      "path": "/assets/logos/football-wol.png",
+      "sourceUrl": "https://resources.premierleague.com/premierleague/badges/100/t39.png",
+      "attribution": "Wolverhampton Wanderers logo, respective rights holders. Source: Premier League official CDN.",
+      "sha256": "e77ec25d8ab03eda3af7f1c4f7cbcd5f341b53be19798221e908fcab034e2f70",
+      "retrievedAt": "2026-11-02T15:31:04.966Z"
+    },
+    {
+      "teamId": "nba-atl",
+      "sport": "nba",
+      "path": "/assets/logos/nba-atl.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+      "attribution": "Atlanta Hawks logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "aacfe9bb2e3f69321bcd0b415a72d860fc97609c6c1f25985c6e70b78bd7f3cc",
+      "retrievedAt": "2026-11-02T15:31:05.252Z"
+    },
+    {
+      "teamId": "nba-bkn",
+      "sport": "nba",
+      "path": "/assets/logos/nba-bkn.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "attribution": "Brooklyn Nets logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "a407016d7c6a93b8b7b580b0de3f76caf80801bfd4fa66dc5badecc031164779",
+      "retrievedAt": "2026-11-02T15:31:05.252Z"
+    },
+    {
+      "teamId": "nba-bos",
+      "sport": "nba",
+      "path": "/assets/logos/nba-bos.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+      "attribution": "Boston Celtics logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "0d0d6b85971b1d18428ba1161772b8c2f7e3ee103846ec4b4763bf0cc849ece0",
+      "retrievedAt": "2026-11-02T15:31:05.277Z"
+    },
+    {
+      "teamId": "nba-cha",
+      "sport": "nba",
+      "path": "/assets/logos/nba-cha.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+      "attribution": "Charlotte Hornets logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "95b3fe42c24e262fb5ce4f52c50f634ba9b7daeae88d090555f1ef301aa0a451",
+      "retrievedAt": "2026-11-02T15:31:05.289Z"
+    },
+    {
+      "teamId": "nba-chi",
+      "sport": "nba",
+      "path": "/assets/logos/nba-chi.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "attribution": "Chicago Bulls logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "3d70e58419859b30a8f2599f930ca502b175f9110c7cc1b2ab496787b8d445c2",
+      "retrievedAt": "2026-11-02T15:31:05.284Z"
+    },
+    {
+      "teamId": "nba-cle",
+      "sport": "nba",
+      "path": "/assets/logos/nba-cle.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "attribution": "Cleveland Cavaliers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "f6eeede7fb286c450b80436ad8c21e430ff1eec73adb187d285cb2b8f681e063",
+      "retrievedAt": "2026-11-02T15:31:05.304Z"
+    },
+    {
+      "teamId": "nba-dal",
+      "sport": "nba",
+      "path": "/assets/logos/nba-dal.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+      "attribution": "Dallas Mavericks logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "d0d526f5400b7266883476071df0d24cdea0655a1641f0e5a2ea212e6c1b2b09",
+      "retrievedAt": "2026-11-02T15:31:05.318Z"
+    },
+    {
+      "teamId": "nba-den",
+      "sport": "nba",
+      "path": "/assets/logos/nba-den.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "attribution": "Denver Nuggets logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "33f295fabf1bc3ddb60dfcbefb35ab9a3a91c865752e4539778495aab27f535d",
+      "retrievedAt": "2026-11-02T15:31:05.350Z"
+    },
+    {
+      "teamId": "nba-det",
+      "sport": "nba",
+      "path": "/assets/logos/nba-det.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "attribution": "Detroit Pistons logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "e5bcfd905add9ef97e06a9cc6bfdde49864fe91731625501c14bf861e84b8853",
+      "retrievedAt": "2026-11-02T15:31:05.325Z"
+    },
+    {
+      "teamId": "nba-gsw",
+      "sport": "nba",
+      "path": "/assets/logos/nba-gsw.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "attribution": "Golden State Warriors logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "b623681ece167224ad4f51aef1ffa5a6f9e072af1cf1d6a6c158fd796e8d33ab",
+      "retrievedAt": "2026-11-02T15:31:05.340Z"
+    },
+    {
+      "teamId": "nba-hou",
+      "sport": "nba",
+      "path": "/assets/logos/nba-hou.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+      "attribution": "Houston Rockets logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "720e35c0d3b39af8d57ae66f00ae1058bd0f32b41fba1137f779af5bc439e011",
+      "retrievedAt": "2026-11-02T15:31:05.373Z"
+    },
+    {
+      "teamId": "nba-ind",
+      "sport": "nba",
+      "path": "/assets/logos/nba-ind.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+      "attribution": "Indiana Pacers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "8dc8165d842c4b0d3b6f607ac9494a68189b2b06f48a3d820cd5b3997ae7c9da",
+      "retrievedAt": "2026-11-02T15:31:05.362Z"
+    },
+    {
+      "teamId": "nba-lac",
+      "sport": "nba",
+      "path": "/assets/logos/nba-lac.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+      "attribution": "LA Clippers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "d43253c0630f0d3d3a4c3c50ce92c9dbe8d5bf21e3bfd5326920c9487b26dbec",
+      "retrievedAt": "2026-11-02T15:31:05.387Z"
+    },
+    {
+      "teamId": "nba-lal",
+      "sport": "nba",
+      "path": "/assets/logos/nba-lal.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "attribution": "Los Angeles Lakers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "82fda3df51058c5aad8a52123868f43959017be0c39c886e9aefbb77e6c69c89",
+      "retrievedAt": "2026-11-02T15:31:05.379Z"
+    },
+    {
+      "teamId": "nba-mem",
+      "sport": "nba",
+      "path": "/assets/logos/nba-mem.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+      "attribution": "Memphis Grizzlies logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "eb3f14246f67bccd4d8dd44be2f431992115beac8837c4b1be51d098b0a388bd",
+      "retrievedAt": "2026-11-02T15:31:05.390Z"
+    },
+    {
+      "teamId": "nba-mia",
+      "sport": "nba",
+      "path": "/assets/logos/nba-mia.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "attribution": "Miami Heat logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "3ba9ff33e65ea12cef33cbf445163a8ec4063b4cbd42c6d2c63109b6d438575f",
+      "retrievedAt": "2026-11-02T15:31:05.394Z"
+    },
+    {
+      "teamId": "nba-mil",
+      "sport": "nba",
+      "path": "/assets/logos/nba-mil.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "attribution": "Milwaukee Bucks logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "84fbddec67f59fa143f4fde9c2745ca15f3ad03594da4e677a4a1034aefa6f33",
+      "retrievedAt": "2026-11-02T15:31:05.402Z"
+    },
+    {
+      "teamId": "nba-min",
+      "sport": "nba",
+      "path": "/assets/logos/nba-min.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+      "attribution": "Minnesota Timberwolves logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "ff53859dd29fb795e2f9c0a7fbaf808548731526d3fbcbb2fdfb842224c36979",
+      "retrievedAt": "2026-11-02T15:31:05.408Z"
+    },
+    {
+      "teamId": "nba-nop",
+      "sport": "nba",
+      "path": "/assets/logos/nba-nop.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+      "attribution": "New Orleans Pelicans logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "2c2bf09a59358e024c442d80f16707cd8b705863df9b6aa0ee478346561dc18a",
+      "retrievedAt": "2026-11-02T15:31:05.414Z"
+    },
+    {
+      "teamId": "nba-nyk",
+      "sport": "nba",
+      "path": "/assets/logos/nba-nyk.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+      "attribution": "New York Knicks logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "35d2cc3780d172d427ed9bec8300bdcb91dd1065a3e1b6b015d46bb065ea35f5",
+      "retrievedAt": "2026-11-02T15:31:05.424Z"
+    },
+    {
+      "teamId": "nba-okc",
+      "sport": "nba",
+      "path": "/assets/logos/nba-okc.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "attribution": "Oklahoma City Thunder logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "6b4801ae99c7dac7240d3b6ab3fbd4249a371473fc06517384e891834164a76e",
+      "retrievedAt": "2026-11-02T15:31:05.427Z"
+    },
+    {
+      "teamId": "nba-orl",
+      "sport": "nba",
+      "path": "/assets/logos/nba-orl.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+      "attribution": "Orlando Magic logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "ccb08b4b69603f4d41e6494b4a35dba8fd2e6a2a75012559d6844c2fc93e0963",
+      "retrievedAt": "2026-11-02T15:31:05.485Z"
+    },
+    {
+      "teamId": "nba-phi",
+      "sport": "nba",
+      "path": "/assets/logos/nba-phi.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+      "attribution": "Philadelphia 76ers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "3b96bf98838e3ea9e5d4fcccda3a98b69636346d2e50aabf1a5a4ba5aad7585e",
+      "retrievedAt": "2026-11-02T15:31:05.437Z"
+    },
+    {
+      "teamId": "nba-phx",
+      "sport": "nba",
+      "path": "/assets/logos/nba-phx.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+      "attribution": "Phoenix Suns logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "5f8932efdb7595069610b11ec2f417d78a9213691c2ba21e2bd491c172397ead",
+      "retrievedAt": "2026-11-02T15:31:05.441Z"
+    },
+    {
+      "teamId": "nba-por",
+      "sport": "nba",
+      "path": "/assets/logos/nba-por.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "attribution": "Portland Trail Blazers logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "635515bc924cef7432e9b362da558c41032daf6f4c41be2e1dc80a34360b6f18",
+      "retrievedAt": "2026-11-02T15:31:05.467Z"
+    },
+    {
+      "teamId": "nba-sac",
+      "sport": "nba",
+      "path": "/assets/logos/nba-sac.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+      "attribution": "Sacramento Kings logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "38728eaaf98d73d00363ee570601d64a4caa7fe2590fb0df5afb1b9129d6e20b",
+      "retrievedAt": "2026-11-02T15:31:05.459Z"
+    },
+    {
+      "teamId": "nba-sas",
+      "sport": "nba",
+      "path": "/assets/logos/nba-sas.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "attribution": "San Antonio Spurs logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "cc3d33fa8faf34874258b10a8e0377d70b80c7900b4d90698f35edba9952fa1c",
+      "retrievedAt": "2026-11-02T15:31:05.478Z"
+    },
+    {
+      "teamId": "nba-tor",
+      "sport": "nba",
+      "path": "/assets/logos/nba-tor.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+      "attribution": "Toronto Raptors logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "9b466dfc1c47b22d6692569ea7f6cb1075a5bb3a35296b5053d6562842850b13",
+      "retrievedAt": "2026-11-02T15:31:05.547Z"
+    },
+    {
+      "teamId": "nba-uta",
+      "sport": "nba",
+      "path": "/assets/logos/nba-uta.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+      "attribution": "Utah Jazz logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "eb20ed36a17b49f65fa30627a2ab2aae5c6e3ee31ab9f03983c15c05270016e1",
+      "retrievedAt": "2026-11-02T15:31:05.736Z"
+    },
+    {
+      "teamId": "nba-was",
+      "sport": "nba",
+      "path": "/assets/logos/nba-was.png",
+      "sourceUrl": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+      "attribution": "Washington Wizards logo, respective rights holders. Source: ESPN team-logo CDN.",
+      "sha256": "33977129ba2139eaee1611f55570c347c9ce4223fbeef413294cbdf66497bc55",
+      "retrievedAt": "2026-11-02T15:31:05.535Z"
+    },
+    {
+      "teamId": "volleyball-cat",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-cat.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=1&Key=6435&Char=False",
+      "attribution": "Farmitalia Catania logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "fd8a021a948286962f6ebc2ba82302afff0f1e1b724e86a2ce7c3a323c360625",
+      "retrievedAt": "2026-11-02T15:35:08.475Z"
+    },
+    {
+      "teamId": "volleyball-cis",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-cis.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6401&Char=False",
+      "attribution": "Cisterna Volley logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "8240cc9fa3f0edef3c8edd5f5e6ba9463dfbe9a8bd690109b31bbcb85c1bf8fb",
+      "retrievedAt": "2026-11-02T15:31:06.309Z"
+    },
+    {
+      "teamId": "volleyball-cva",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-cva.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6395&Char=False",
+      "attribution": "Cucine Lube Civitanova logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "7723137808951f5b4b2b221615b10f98e9d57da2c437feb5e472d7709f700ca1",
+      "retrievedAt": "2026-11-02T15:31:06.190Z"
+    },
+    {
+      "teamId": "volleyball-mil",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-mil.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=1&Key=6394&Char=False",
+      "attribution": "Allianz Milano logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "fb28620c7795b7eea4f155ac670e292bb9650e1fa87f9938ca777212adb1652f",
+      "retrievedAt": "2026-11-02T15:35:08.352Z"
+    },
+    {
+      "teamId": "volleyball-mod",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-mod.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=1&Key=6402&Char=False",
+      "attribution": "Valsa Group Modena logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "bab5af8830b06e268eeadf231d494b6f6d66dcb32e288a9ef9d34e9057ca364d",
+      "retrievedAt": "2026-11-02T15:35:08.364Z"
+    },
+    {
+      "teamId": "volleyball-mza",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-mza.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6403&Char=False",
+      "attribution": "Mint Vero Volley Monza logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "599b0e03991d6d934dfc6981b7b0909e6e9877ea6b0bb8e7ab0c570394665d01",
+      "retrievedAt": "2026-11-02T15:31:06.099Z"
+    },
+    {
+      "teamId": "volleyball-pad",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-pad.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=1&Key=6399&Char=False",
+      "attribution": "Pallavolo Padova logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "cd846bfa8df7270fda08d083e567991ee4b0e5b3c54604abbd1f4401c009406f",
+      "retrievedAt": "2026-11-02T15:35:08.363Z"
+    },
+    {
+      "teamId": "volleyball-pga",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-pga.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6400&Char=False",
+      "attribution": "Sir Susa Vim Perugia logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "476038f3e0c81473b40b658aa67578cd6b6060ac1c2a90ecf1a73633f81e6a12",
+      "retrievedAt": "2026-11-02T15:31:05.980Z"
+    },
+    {
+      "teamId": "volleyball-pia",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-pia.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6396&Char=False",
+      "attribution": "Gas Sales Bluenergy Piacenza logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "e03ef53a4c071f28ef187e11a831f2e488e62523177c6afea40370f2da2da0af",
+      "retrievedAt": "2026-11-02T15:31:05.980Z"
+    },
+    {
+      "teamId": "volleyball-tar",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-tar.png",
+      "sourceUrl": "https://www.prismatarantovolley.it/wp-content/uploads/2023/06/prisma-taranto-volley-logo-01.png",
+      "attribution": "Gioiella Prisma Taranto logo, respective rights holders. Source: Prisma Taranto official club website.",
+      "sha256": "eef904a1da7e9782cd76d94b990eb50669ed7015eb3f264aeda2b6c2b1442596",
+      "retrievedAt": "2026-11-02T15:35:08.621Z"
+    },
+    {
+      "teamId": "volleyball-tre",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-tre.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6398&Char=False",
+      "attribution": "Itas Trentino logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "a05d15abe54ed2606542ce34c8df51bba4635af2b314895fc765c6298234a8eb",
+      "retrievedAt": "2026-11-02T15:31:05.970Z"
+    },
+    {
+      "teamId": "volleyball-ver",
+      "sport": "volleyball",
+      "path": "/assets/logos/volleyball-ver.jpg",
+      "sourceUrl": "https://www.legavolley.it/GetLogo.aspx?Field=LogoWeb&maxWidth=220&Proc=LogoSquadra&Web=0&Key=6404&Char=False",
+      "attribution": "Rana Verona logo, respective rights holders. Source: Lega Pallavolo Serie A 2023/24 club archive.",
+      "sha256": "7c03bd902c1fd9a393d607f56661aa41cba2a94954d54f911ef4fadf95bd3b78",
+      "retrievedAt": "2026-11-02T15:31:06.326Z"
+    }
+  ]
+}
